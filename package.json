@@ -105,6 +105,6 @@
     "sinon-chai": "^2.8.0"
   },
   "optionalDependencies": {
-    "@google-cloud/functions-emulator": "^1.0.0-beta.5"
+    "@google-cloud/functions-emulator": "github:fixate/cloud-functions-emulator#fix/207-linux-hot-reloading"
   }
 }
